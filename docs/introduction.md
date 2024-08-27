@@ -14,26 +14,9 @@ Bạn có thể tìm thấy các hướng dẫn và bài viết bằng cách:
 
 Dưới đây là một số series bạn có thể khám phá:
 
-1. Ruby cơ bản
-   - [Cài đặt môi trường Ruby](/docs/ruby-basics/installation)
-   - [Biến và kiểu dữ liệu trong Ruby](/docs/ruby-basics/variables-and-data-types)
-   - [Cấu trúc điều khiển trong Ruby](/docs/ruby-basics/control-structures)
-
-2. Học JavaScript
-   - [Giới thiệu về JavaScript](/docs/javascript/introduction)
-   - [DOM Manipulation](/docs/javascript/dom-manipulation)
-   - [Asynchronous JavaScript](/docs/javascript/async-js)
-
-3. Docker cho người mới bắt đầu
-   - [Docker là gì?](/docs/docker/what-is-docker)
-   - [Cài đặt Docker](/docs/docker/installation)
-   - [Tạo và chạy container đầu tiên](/docs/docker/first-container)
-
-4. Hướng dẫn Git
-   - [Cơ bản về Git](/docs/git/git-basics)
-   - [Branching và Merging](/docs/git/branching-and-merging)
-   - [Làm việc với Remote Repositories](/docs/git/working-with-remotes)
-
+1. Security cơ bản
+   - [Cài đặt môi trường SonorQube](/docs/tutorial-security/how-install-sonarqube-windows)
+   
 Hãy khám phá và hy vọng bạn sẽ tìm thấy thông tin hữu ích!
 
 Bạn thấy phiên bản này thế nào? Tôi có thể điều chỉnh hoặc thêm bớt series nếu bạn muốn.
