@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Hướng dẫn sử dụng Retire.js
+# Bài 3: Hướng dẫn sử dụng Retire.js
 
 Retire.js là một công cụ quét các thư viện JavaScript để phát hiện các phiên bản có lỗ hổng bảo mật hoặc đã lỗi thời. Dưới đây là hướng dẫn cách sử dụng Retire.js để bảo vệ dự án của bạn.
 

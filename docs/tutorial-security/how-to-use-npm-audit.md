@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Hướng dẫn sử dụng npm audit để kiểm tra bảo mật dự án Node.js
+# Bài 4: Hướng dẫn sử dụng npm audit để kiểm tra bảo mật dự án Node.js
 
 npm audit là một công cụ tích hợp sẵn trong npm (Node Package Manager) giúp kiểm tra các lỗ hổng bảo mật trong các dependencies của dự án Node.js. Dưới đây là hướng dẫn chi tiết về cách sử dụng npm audit.
 

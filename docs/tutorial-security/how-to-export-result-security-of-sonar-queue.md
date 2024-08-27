@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Hướng dẫn Export Dữ liệu Security từ SonarQube sử dụng API
+# Bài 2: Hướng dẫn Export Dữ liệu Security từ SonarQube sử dụng API
 
 ## Giới thiệu
 

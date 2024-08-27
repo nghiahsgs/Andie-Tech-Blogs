@@ -14,8 +14,9 @@ Bạn có thể tìm thấy các hướng dẫn và bài viết bằng cách:
 
 Dưới đây là một số series bạn có thể khám phá:
 
-1. Security cơ bản
-   - [Cài đặt môi trường SonorQube](/docs/tutorial-security/how-install-sonarqube-windows)
+
+- [Tutorial Security](/docs/category/tutorial-security)
+- [Tutorial Ruby](/docs/category/tutorial-ruby)
    
 Hãy khám phá và hy vọng bạn sẽ tìm thấy thông tin hữu ích!
 

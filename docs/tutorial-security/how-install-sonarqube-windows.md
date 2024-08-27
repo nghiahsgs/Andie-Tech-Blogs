@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Sử dụng SonarQube trên Windows
+# Bài 1: Sử dụng SonarQube trên Windows
 
 ## Phần 1: Cài đặt SonarQube
 
