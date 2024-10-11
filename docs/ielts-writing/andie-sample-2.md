@@ -85,3 +85,12 @@ Tóm lại, cả việc học rộng và học sâu đều có vai trò quan tr�
 
 In today's era of rapidly developing and diverse knowledge, effective learning methods are crucial for each individual. The question is often raised about whether to explore multiple fields or focus on a specific field. Each method has its own advantages, and choosing it depends on many factors.
 
+## Than bai 1
+People who support leanring in diverse fields believe that, in today's modern world, diverse knowledge is key to success. They argue that having knowledge of diverse fields helps us have a broader perspective and to develop flexible solutions to tackle probelem. For example, a developer is not only good at technology, but also need to have knowledge of economies to understand market demand, needs to have knowledge of project management to work effectively in a team, and communication skills to communicate effectively with clients and colleagues. A diverse knowledge base enables individuals to adapt well across multiple fields, which is a growing trend in today's modern workplace
+
+## Than bai 2
+On the other hand, proponents of in-depth learning maintain that in-depth knowledge of a single field takes precedence over having a superficial knowledge of many things. They argue that only by focusing on a specific field can we become experts and create unique value.
+
+
+For example, one student good at math spend almost time for this subject can achieve high prize in math national exams and global exams, so that opening he can have value scholarship and have good job in future
+
